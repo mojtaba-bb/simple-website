@@ -9,7 +9,8 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "lightswind": "^3.1.18",
+    "aos": "^2.3.4",
+    "lightswind": "^3.1.15",
     "next": "16.0.1",
     "react": "19.2.0",
     "react-dom": "19.2.0",
